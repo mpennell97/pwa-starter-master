@@ -1,0 +1,15 @@
+{
+        "name": "Eastern Washington University Campus Tour",
+        "short_name": "EWU Tour",
+        "description": "Come see beautiful, little Cheney",
+        "scope": ".",
+// Name of Repo
+        "start_url": "/pwa-starter",
+//Remover URL bar and make feel like a native app.
+        "display": "standalone",
+// theme options
+        "orientation": "portrait", 
+        "background_color": "#ffffff",
+        "theme_color": "#ffffff",
+        "icons": 
+}
